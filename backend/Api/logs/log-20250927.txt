@@ -1,0 +1,1198 @@
+2025-09-27 22:11:17.431 -05:00 [INF] User profile is available. Using 'C:\Users\darwino\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-27 22:11:17.849 -05:00 [WRN] The WebRootPath was not found: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\wwwroot. Static files may be unavailable.
+2025-09-27 22:11:18.207 -05:00 [INF] Now listening on: https://localhost:54893
+2025-09-27 22:11:18.212 -05:00 [INF] Now listening on: http://localhost:54894
+2025-09-27 22:11:18.665 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-27 22:11:18.668 -05:00 [INF] Hosting environment: Development
+2025-09-27 22:11:18.670 -05:00 [INF] Content root path: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api
+2025-09-27 22:11:24.129 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/ - null null
+2025-09-27 22:11:24.651 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/ - 404 0 null 539.8397ms
+2025-09-27 22:11:24.680 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:54893/, Response status code: 404
+2025-09-27 22:17:55.020 -05:00 [INF] User profile is available. Using 'C:\Users\darwino\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-27 22:17:55.363 -05:00 [WRN] The WebRootPath was not found: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\wwwroot. Static files may be unavailable.
+2025-09-27 22:17:55.627 -05:00 [INF] Now listening on: https://localhost:54893
+2025-09-27 22:17:55.630 -05:00 [INF] Now listening on: http://localhost:54894
+2025-09-27 22:17:56.125 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-27 22:17:56.130 -05:00 [INF] Hosting environment: Development
+2025-09-27 22:17:56.134 -05:00 [INF] Content root path: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api
+2025-09-27 22:17:57.629 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/ - null null
+2025-09-27 22:17:58.141 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/ - 404 0 null 541.2185ms
+2025-09-27 22:17:58.176 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:54893/, Response status code: 404
+2025-09-27 22:18:02.279 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger - null null
+2025-09-27 22:18:02.321 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger - 301 0 null 42.6953ms
+2025-09-27 22:18:02.334 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/index.html - null null
+2025-09-27 22:18:02.657 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/swagger-ui.css - null null
+2025-09-27 22:18:02.657 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/swagger-ui-bundle.js - null null
+2025-09-27 22:18:02.657 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/index.html - 200 null text/html;charset=utf-8 323.3412ms
+2025-09-27 22:18:02.722 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-27 22:18:02.658 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/swagger-ui-standalone-preset.js - null null
+2025-09-27 22:18:02.675 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_vs/browserLink - null null
+2025-09-27 22:18:02.873 -05:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-09-27 22:18:02.880 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - 200 16491 application/javascript; charset=utf-8 201.5459ms
+2025-09-27 22:18:02.903 -05:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-09-27 22:18:02.901 -05:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-09-27 22:18:02.921 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/swagger-ui.css - 200 144929 text/css 263.9978ms
+2025-09-27 22:18:02.952 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/swagger-ui-standalone-preset.js - 200 312163 text/javascript 294.2709ms
+2025-09-27 22:18:02.962 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/swagger-ui-bundle.js - 200 1061536 text/javascript 304.6008ms
+2025-09-27 22:18:03.070 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_vs/browserLink - 200 null text/javascript; charset=UTF-8 395.3095ms
+2025-09-27 22:18:03.352 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - null null
+2025-09-27 22:18:03.397 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/favicon-32x32.png - null null
+2025-09-27 22:18:03.415 -05:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-09-27 22:18:03.424 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/favicon-32x32.png - 200 628 image/png 26.5425ms
+2025-09-27 22:18:03.771 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 418.8615ms
+2025-09-27 22:46:11.269 -05:00 [INF] User profile is available. Using 'C:\Users\darwino\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-27 22:46:11.676 -05:00 [WRN] The WebRootPath was not found: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\wwwroot. Static files may be unavailable.
+2025-09-27 22:46:11.906 -05:00 [INF] Now listening on: https://localhost:54893
+2025-09-27 22:46:11.912 -05:00 [INF] Now listening on: http://localhost:54894
+2025-09-27 22:46:12.697 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-27 22:46:12.702 -05:00 [INF] Hosting environment: Development
+2025-09-27 22:46:12.708 -05:00 [INF] Content root path: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api
+2025-09-27 22:46:13.991 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/ - null null
+2025-09-27 22:46:14.383 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/ - 404 0 null 418.2561ms
+2025-09-27 22:46:14.417 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:54893/, Response status code: 404
+2025-09-27 22:55:17.620 -05:00 [INF] User profile is available. Using 'C:\Users\darwino\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-27 22:55:18.001 -05:00 [WRN] The WebRootPath was not found: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\wwwroot. Static files may be unavailable.
+2025-09-27 22:55:18.273 -05:00 [INF] Now listening on: https://localhost:54893
+2025-09-27 22:55:18.277 -05:00 [INF] Now listening on: http://localhost:54894
+2025-09-27 22:55:18.357 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-27 22:55:18.420 -05:00 [INF] Hosting environment: Development
+2025-09-27 22:55:18.427 -05:00 [INF] Content root path: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api
+2025-09-27 22:55:20.148 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/ - null null
+2025-09-27 22:55:20.572 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/ - 404 0 null 454.875ms
+2025-09-27 22:55:20.603 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:54893/, Response status code: 404
+2025-09-27 22:55:23.826 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/index.html - null null
+2025-09-27 22:55:23.975 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/index.html - 200 null text/html;charset=utf-8 149.8906ms
+2025-09-27 22:55:24.000 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-27 22:55:24.002 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_vs/browserLink - null null
+2025-09-27 22:55:24.030 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - 200 16491 application/javascript; charset=utf-8 31.3285ms
+2025-09-27 22:55:24.129 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_vs/browserLink - 200 null text/javascript; charset=UTF-8 127.6567ms
+2025-09-27 22:55:24.486 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - null null
+2025-09-27 22:55:24.695 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Reservation" for actions - Api.Controllers.ReservationController.GetReservationsAsync (Api),Api.Controllers.ReservationController.Get (Api). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-09-27 22:55:24.719 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 232.9159ms
+2025-09-27 22:55:33.326 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/.well-known/appspecific/com.chrome.devtools.json - null null
+2025-09-27 22:55:33.358 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/.well-known/appspecific/com.chrome.devtools.json - 404 0 null 32.1137ms
+2025-09-27 22:55:33.384 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:54893/.well-known/appspecific/com.chrome.devtools.json, Response status code: 404
+2025-09-27 22:56:26.686 -05:00 [INF] User profile is available. Using 'C:\Users\darwino\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-27 22:56:27.072 -05:00 [WRN] The WebRootPath was not found: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\wwwroot. Static files may be unavailable.
+2025-09-27 22:56:27.324 -05:00 [INF] Now listening on: https://localhost:54893
+2025-09-27 22:56:27.332 -05:00 [INF] Now listening on: http://localhost:54894
+2025-09-27 22:56:27.414 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-27 22:56:27.421 -05:00 [INF] Hosting environment: Development
+2025-09-27 22:56:27.428 -05:00 [INF] Content root path: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api
+2025-09-27 22:56:29.143 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/ - null null
+2025-09-27 22:56:29.524 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/ - 404 0 null 392.886ms
+2025-09-27 22:56:29.552 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:54893/, Response status code: 404
+2025-09-27 22:56:36.528 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/index.html - null null
+2025-09-27 22:56:36.739 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/index.html - 200 null text/html;charset=utf-8 210.9534ms
+2025-09-27 22:56:36.757 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-27 22:56:36.763 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_vs/browserLink - null null
+2025-09-27 22:56:36.787 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - 200 16491 application/javascript; charset=utf-8 30.4266ms
+2025-09-27 22:56:36.881 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_vs/browserLink - 200 null text/javascript; charset=UTF-8 118.5264ms
+2025-09-27 22:56:36.944 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - null null
+2025-09-27 22:56:37.284 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 339.5451ms
+2025-09-27 22:56:46.471 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/api/Reservation - null null
+2025-09-27 22:56:46.526 -05:00 [INF] Executing endpoint 'Api.Controllers.ReservationController.GetReservationsAsync (Api)'
+2025-09-27 22:56:46.604 -05:00 [INF] Route matched with {action = "GetReservations", controller = "Reservation"}. Executing controller action with signature System.Threading.Tasks.Task`1[Application.DTO.Response.ApiResponse`1[System.Collections.Generic.IEnumerable`1[Application.DTO.Response.SampleResponse]]] GetReservationsAsync() on controller Api.Controllers.ReservationController (Api).
+2025-09-27 22:56:49.171 -05:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-09-27 22:56:51.314 -05:00 [INF] Executed action Api.Controllers.ReservationController.GetReservationsAsync (Api) in 4685.65ms
+2025-09-27 22:56:51.476 -05:00 [INF] Executed endpoint 'Api.Controllers.ReservationController.GetReservationsAsync (Api)'
+2025-09-27 22:56:51.559 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Cannot create a DbSet for 'Sample' because this type is not included in the model for the context.
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityType()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.CheckState()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityQueryable()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.System.Collections.Generic.IAsyncEnumerable<TEntity>.GetAsyncEnumerator(CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.ConfiguredCancelableAsyncEnumerable`1.GetAsyncEnumerator()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Infrastructure.Repositories.Repository`1.GetAllAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Infrastructure\Repositories\Repository.cs:line 24
+   at Application.Services.SampleService.GetSampleAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Services\SampleService.cs:line 18
+   at Application.Queries.GetSampleHandler.Handle(GetSampleQuery request, CancellationToken cancellationToken) in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Queries\GetSampleHandler.cs:line 11
+   at Api.Controllers.ReservationController.GetReservationsAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\Controllers\ReservationController.cs:line 20
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-09-27 22:56:51.634 -05:00 [ERR] An error occurred while processing the request
+System.InvalidOperationException: Cannot create a DbSet for 'Sample' because this type is not included in the model for the context.
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityType()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.CheckState()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityQueryable()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.System.Collections.Generic.IAsyncEnumerable<TEntity>.GetAsyncEnumerator(CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.ConfiguredCancelableAsyncEnumerable`1.GetAsyncEnumerator()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Infrastructure.Repositories.Repository`1.GetAllAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Infrastructure\Repositories\Repository.cs:line 24
+   at Application.Services.SampleService.GetSampleAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Services\SampleService.cs:line 18
+   at Application.Queries.GetSampleHandler.Handle(GetSampleQuery request, CancellationToken cancellationToken) in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Queries\GetSampleHandler.cs:line 11
+   at Api.Controllers.ReservationController.GetReservationsAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\Controllers\ReservationController.cs:line 20
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-09-27 22:56:51.716 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/api/Reservation - 500 null application/json 5244.2792ms
+2025-09-27 22:58:41.585 -05:00 [INF] User profile is available. Using 'C:\Users\darwino\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-27 22:58:42.029 -05:00 [WRN] The WebRootPath was not found: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\wwwroot. Static files may be unavailable.
+2025-09-27 22:58:42.237 -05:00 [INF] Now listening on: https://localhost:54893
+2025-09-27 22:58:42.244 -05:00 [INF] Now listening on: http://localhost:54894
+2025-09-27 22:58:42.389 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-27 22:58:42.392 -05:00 [INF] Hosting environment: Development
+2025-09-27 22:58:42.393 -05:00 [INF] Content root path: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api
+2025-09-27 22:58:43.928 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/ - null null
+2025-09-27 22:58:44.243 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/ - 404 0 null 329.5035ms
+2025-09-27 22:58:44.270 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:54893/, Response status code: 404
+2025-09-27 22:58:47.185 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/index.html - null null
+2025-09-27 22:58:47.385 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/index.html - 200 null text/html;charset=utf-8 197.5479ms
+2025-09-27 22:58:47.406 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-27 22:58:47.407 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_vs/browserLink - null null
+2025-09-27 22:58:47.447 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - 200 16491 application/javascript; charset=utf-8 40.7259ms
+2025-09-27 22:58:47.531 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_vs/browserLink - 200 null text/javascript; charset=UTF-8 124.5765ms
+2025-09-27 22:58:47.613 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - null null
+2025-09-27 22:58:47.848 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 234.4814ms
+2025-09-27 22:58:51.043 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/api/Reservation - null null
+2025-09-27 22:58:51.078 -05:00 [INF] Executing endpoint 'Api.Controllers.ReservationController.GetReservationsAsync (Api)'
+2025-09-27 22:58:51.146 -05:00 [INF] Route matched with {action = "GetReservations", controller = "Reservation"}. Executing controller action with signature System.Threading.Tasks.Task`1[Application.DTO.Response.ApiResponse`1[System.Collections.Generic.IEnumerable`1[Application.DTO.Response.SampleResponse]]] GetReservationsAsync() on controller Api.Controllers.ReservationController (Api).
+2025-09-27 22:58:53.477 -05:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-09-27 22:58:56.149 -05:00 [ERR] An exception occurred while iterating over the results of a query for context type 'Infrastructure.Context.QuickParkDbContext'.
+System.ArgumentException: Couldn't set trusted_connection (Parameter 'trusted_connection')
+ ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at Npgsql.NpgsqlConnectionStringBuilder.GeneratedActions(GeneratedAction action, String keyword, Object& value)
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   --- End of inner exception stack trace ---
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnectionStringBuilder..ctor(String connectionString)
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at Npgsql.NpgsqlConnection.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnection..ctor(String connectionString)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlRelationalConnection.CreateDbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.get_DbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.ArgumentException: Couldn't set trusted_connection (Parameter 'trusted_connection')
+ ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at Npgsql.NpgsqlConnectionStringBuilder.GeneratedActions(GeneratedAction action, String keyword, Object& value)
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   --- End of inner exception stack trace ---
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnectionStringBuilder..ctor(String connectionString)
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at Npgsql.NpgsqlConnection.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnection..ctor(String connectionString)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlRelationalConnection.CreateDbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.get_DbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2025-09-27 22:58:57.535 -05:00 [INF] Executed action Api.Controllers.ReservationController.GetReservationsAsync (Api) in 6368.6337ms
+2025-09-27 22:58:57.684 -05:00 [INF] Executed endpoint 'Api.Controllers.ReservationController.GetReservationsAsync (Api)'
+2025-09-27 22:58:57.771 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentException: Couldn't set trusted_connection (Parameter 'trusted_connection')
+ ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at Npgsql.NpgsqlConnectionStringBuilder.GeneratedActions(GeneratedAction action, String keyword, Object& value)
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   --- End of inner exception stack trace ---
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnectionStringBuilder..ctor(String connectionString)
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at Npgsql.NpgsqlConnection.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnection..ctor(String connectionString)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlRelationalConnection.CreateDbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.get_DbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Infrastructure.Repositories.Repository`1.GetAllAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Infrastructure\Repositories\Repository.cs:line 24
+   at Application.Services.SampleService.GetSampleAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Services\SampleService.cs:line 18
+   at Application.Queries.GetSampleHandler.Handle(GetSampleQuery request, CancellationToken cancellationToken) in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Queries\GetSampleHandler.cs:line 11
+   at Api.Controllers.ReservationController.GetReservationsAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\Controllers\ReservationController.cs:line 20
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-09-27 22:58:57.850 -05:00 [ERR] An error occurred while processing the request
+System.ArgumentException: Couldn't set trusted_connection (Parameter 'trusted_connection')
+ ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at Npgsql.NpgsqlConnectionStringBuilder.GeneratedActions(GeneratedAction action, String keyword, Object& value)
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   --- End of inner exception stack trace ---
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnectionStringBuilder..ctor(String connectionString)
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at Npgsql.NpgsqlConnection.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnection..ctor(String connectionString)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlRelationalConnection.CreateDbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.get_DbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Infrastructure.Repositories.Repository`1.GetAllAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Infrastructure\Repositories\Repository.cs:line 24
+   at Application.Services.SampleService.GetSampleAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Services\SampleService.cs:line 18
+   at Application.Queries.GetSampleHandler.Handle(GetSampleQuery request, CancellationToken cancellationToken) in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Queries\GetSampleHandler.cs:line 11
+   at Api.Controllers.ReservationController.GetReservationsAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\Controllers\ReservationController.cs:line 20
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-09-27 22:58:57.966 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/api/Reservation - 500 null application/json 6923.6203ms
+2025-09-27 23:00:38.142 -05:00 [INF] User profile is available. Using 'C:\Users\darwino\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-27 23:00:38.445 -05:00 [WRN] The WebRootPath was not found: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\wwwroot. Static files may be unavailable.
+2025-09-27 23:00:38.710 -05:00 [INF] Now listening on: https://localhost:54893
+2025-09-27 23:00:38.717 -05:00 [INF] Now listening on: http://localhost:54894
+2025-09-27 23:00:39.011 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-27 23:00:39.018 -05:00 [INF] Hosting environment: Development
+2025-09-27 23:00:39.200 -05:00 [INF] Content root path: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api
+2025-09-27 23:00:40.842 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/ - null null
+2025-09-27 23:00:41.143 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/ - 404 0 null 318.6971ms
+2025-09-27 23:00:41.171 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:54893/, Response status code: 404
+2025-09-27 23:00:43.945 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/index.html - null null
+2025-09-27 23:00:44.077 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/index.html - 200 null text/html;charset=utf-8 132.4447ms
+2025-09-27 23:00:44.101 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-27 23:00:44.101 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_vs/browserLink - null null
+2025-09-27 23:00:44.126 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - 200 16491 application/javascript; charset=utf-8 25.0917ms
+2025-09-27 23:00:44.200 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_vs/browserLink - 200 null text/javascript; charset=UTF-8 98.8103ms
+2025-09-27 23:00:44.257 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - null null
+2025-09-27 23:00:44.442 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 184.3295ms
+2025-09-27 23:00:47.418 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/api/Reservation - null null
+2025-09-27 23:00:47.468 -05:00 [INF] Executing endpoint 'Api.Controllers.ReservationController.GetReservationsAsync (Api)'
+2025-09-27 23:00:47.543 -05:00 [INF] Route matched with {action = "GetReservations", controller = "Reservation"}. Executing controller action with signature System.Threading.Tasks.Task`1[Application.DTO.Response.ApiResponse`1[System.Collections.Generic.IEnumerable`1[Application.DTO.Response.SampleResponse]]] GetReservationsAsync() on controller Api.Controllers.ReservationController (Api).
+2025-09-27 23:00:49.828 -05:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-09-27 23:00:52.403 -05:00 [ERR] An exception occurred while iterating over the results of a query for context type 'Infrastructure.Context.QuickParkDbContext'.
+System.ArgumentException: Couldn't set trusted_connection (Parameter 'trusted_connection')
+ ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at Npgsql.NpgsqlConnectionStringBuilder.GeneratedActions(GeneratedAction action, String keyword, Object& value)
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   --- End of inner exception stack trace ---
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnectionStringBuilder..ctor(String connectionString)
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at Npgsql.NpgsqlConnection.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnection..ctor(String connectionString)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlRelationalConnection.CreateDbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.get_DbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.ArgumentException: Couldn't set trusted_connection (Parameter 'trusted_connection')
+ ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at Npgsql.NpgsqlConnectionStringBuilder.GeneratedActions(GeneratedAction action, String keyword, Object& value)
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   --- End of inner exception stack trace ---
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnectionStringBuilder..ctor(String connectionString)
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at Npgsql.NpgsqlConnection.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnection..ctor(String connectionString)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlRelationalConnection.CreateDbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.get_DbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2025-09-27 23:00:53.899 -05:00 [INF] Executed action Api.Controllers.ReservationController.GetReservationsAsync (Api) in 6336.0128ms
+2025-09-27 23:00:54.056 -05:00 [INF] Executed endpoint 'Api.Controllers.ReservationController.GetReservationsAsync (Api)'
+2025-09-27 23:00:54.173 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentException: Couldn't set trusted_connection (Parameter 'trusted_connection')
+ ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at Npgsql.NpgsqlConnectionStringBuilder.GeneratedActions(GeneratedAction action, String keyword, Object& value)
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   --- End of inner exception stack trace ---
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnectionStringBuilder..ctor(String connectionString)
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at Npgsql.NpgsqlConnection.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnection..ctor(String connectionString)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlRelationalConnection.CreateDbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.get_DbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Infrastructure.Repositories.Repository`1.GetAllAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Infrastructure\Repositories\Repository.cs:line 24
+   at Application.Services.SampleService.GetSampleAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Services\SampleService.cs:line 18
+   at Application.Queries.GetSampleHandler.Handle(GetSampleQuery request, CancellationToken cancellationToken) in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Queries\GetSampleHandler.cs:line 11
+   at Api.Controllers.ReservationController.GetReservationsAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\Controllers\ReservationController.cs:line 20
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-09-27 23:00:54.254 -05:00 [ERR] An error occurred while processing the request
+System.ArgumentException: Couldn't set trusted_connection (Parameter 'trusted_connection')
+ ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at Npgsql.NpgsqlConnectionStringBuilder.GeneratedActions(GeneratedAction action, String keyword, Object& value)
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   --- End of inner exception stack trace ---
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnectionStringBuilder..ctor(String connectionString)
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at Npgsql.NpgsqlConnection.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnection..ctor(String connectionString)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlRelationalConnection.CreateDbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.get_DbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Infrastructure.Repositories.Repository`1.GetAllAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Infrastructure\Repositories\Repository.cs:line 24
+   at Application.Services.SampleService.GetSampleAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Services\SampleService.cs:line 18
+   at Application.Queries.GetSampleHandler.Handle(GetSampleQuery request, CancellationToken cancellationToken) in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Queries\GetSampleHandler.cs:line 11
+   at Api.Controllers.ReservationController.GetReservationsAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\Controllers\ReservationController.cs:line 20
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-09-27 23:00:54.360 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/api/Reservation - 500 null application/json 6941.6732ms
+2025-09-27 23:02:26.283 -05:00 [INF] User profile is available. Using 'C:\Users\darwino\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-27 23:02:26.602 -05:00 [WRN] The WebRootPath was not found: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\wwwroot. Static files may be unavailable.
+2025-09-27 23:02:26.814 -05:00 [INF] Now listening on: https://localhost:54893
+2025-09-27 23:02:26.821 -05:00 [INF] Now listening on: http://localhost:54894
+2025-09-27 23:02:27.033 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-27 23:02:27.038 -05:00 [INF] Hosting environment: Development
+2025-09-27 23:02:27.041 -05:00 [INF] Content root path: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api
+2025-09-27 23:02:29.446 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/ - null null
+2025-09-27 23:02:29.989 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/ - 404 0 null 579.4075ms
+2025-09-27 23:02:30.017 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:54893/, Response status code: 404
+2025-09-27 23:02:32.245 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/index.html - null null
+2025-09-27 23:02:32.505 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/index.html - 200 null text/html;charset=utf-8 261.2874ms
+2025-09-27 23:02:32.546 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-27 23:02:32.568 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_vs/browserLink - null null
+2025-09-27 23:02:32.626 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - 200 16491 application/javascript; charset=utf-8 80.8721ms
+2025-09-27 23:02:32.741 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_vs/browserLink - 200 null text/javascript; charset=UTF-8 173.1275ms
+2025-09-27 23:02:32.870 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - null null
+2025-09-27 23:02:33.240 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 369.7715ms
+2025-09-27 23:02:37.171 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/api/Reservation - null null
+2025-09-27 23:02:37.209 -05:00 [INF] Executing endpoint 'Api.Controllers.ReservationController.GetReservationsAsync (Api)'
+2025-09-27 23:02:37.279 -05:00 [INF] Route matched with {action = "GetReservations", controller = "Reservation"}. Executing controller action with signature System.Threading.Tasks.Task`1[Application.DTO.Response.ApiResponse`1[System.Collections.Generic.IEnumerable`1[Application.DTO.Response.SampleResponse]]] GetReservationsAsync() on controller Api.Controllers.ReservationController (Api).
+2025-09-27 23:02:39.454 -05:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-09-27 23:02:42.243 -05:00 [ERR] An exception occurred while iterating over the results of a query for context type 'Infrastructure.Context.QuickParkDbContext'.
+System.ArgumentException: Couldn't set trusted_connection (Parameter 'trusted_connection')
+ ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at Npgsql.NpgsqlConnectionStringBuilder.GeneratedActions(GeneratedAction action, String keyword, Object& value)
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   --- End of inner exception stack trace ---
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnectionStringBuilder..ctor(String connectionString)
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at Npgsql.NpgsqlConnection.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnection..ctor(String connectionString)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlRelationalConnection.CreateDbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.get_DbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.ArgumentException: Couldn't set trusted_connection (Parameter 'trusted_connection')
+ ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at Npgsql.NpgsqlConnectionStringBuilder.GeneratedActions(GeneratedAction action, String keyword, Object& value)
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   --- End of inner exception stack trace ---
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnectionStringBuilder..ctor(String connectionString)
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at Npgsql.NpgsqlConnection.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnection..ctor(String connectionString)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlRelationalConnection.CreateDbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.get_DbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2025-09-27 23:02:43.651 -05:00 [INF] Executed action Api.Controllers.ReservationController.GetReservationsAsync (Api) in 6356.5463ms
+2025-09-27 23:02:43.824 -05:00 [INF] Executed endpoint 'Api.Controllers.ReservationController.GetReservationsAsync (Api)'
+2025-09-27 23:02:43.904 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentException: Couldn't set trusted_connection (Parameter 'trusted_connection')
+ ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at Npgsql.NpgsqlConnectionStringBuilder.GeneratedActions(GeneratedAction action, String keyword, Object& value)
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   --- End of inner exception stack trace ---
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnectionStringBuilder..ctor(String connectionString)
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at Npgsql.NpgsqlConnection.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnection..ctor(String connectionString)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlRelationalConnection.CreateDbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.get_DbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Infrastructure.Repositories.Repository`1.GetAllAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Infrastructure\Repositories\Repository.cs:line 24
+   at Application.Services.SampleService.GetSampleAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Services\SampleService.cs:line 18
+   at Application.Queries.GetSampleHandler.Handle(GetSampleQuery request, CancellationToken cancellationToken) in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Queries\GetSampleHandler.cs:line 11
+   at Api.Controllers.ReservationController.GetReservationsAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\Controllers\ReservationController.cs:line 20
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-09-27 23:02:44.032 -05:00 [ERR] An error occurred while processing the request
+System.ArgumentException: Couldn't set trusted_connection (Parameter 'trusted_connection')
+ ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at Npgsql.NpgsqlConnectionStringBuilder.GeneratedActions(GeneratedAction action, String keyword, Object& value)
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   --- End of inner exception stack trace ---
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnectionStringBuilder..ctor(String connectionString)
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at Npgsql.NpgsqlConnection.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnection..ctor(String connectionString)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlRelationalConnection.CreateDbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.get_DbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Infrastructure.Repositories.Repository`1.GetAllAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Infrastructure\Repositories\Repository.cs:line 24
+   at Application.Services.SampleService.GetSampleAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Services\SampleService.cs:line 18
+   at Application.Queries.GetSampleHandler.Handle(GetSampleQuery request, CancellationToken cancellationToken) in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Queries\GetSampleHandler.cs:line 11
+   at Api.Controllers.ReservationController.GetReservationsAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\Controllers\ReservationController.cs:line 20
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-09-27 23:02:44.114 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/api/Reservation - 500 null application/json 6943.2757ms
+2025-09-27 23:03:47.962 -05:00 [INF] User profile is available. Using 'C:\Users\darwino\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-27 23:03:48.303 -05:00 [WRN] The WebRootPath was not found: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\wwwroot. Static files may be unavailable.
+2025-09-27 23:03:48.474 -05:00 [INF] Now listening on: https://localhost:54893
+2025-09-27 23:03:48.477 -05:00 [INF] Now listening on: http://localhost:54894
+2025-09-27 23:03:48.629 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-27 23:03:48.630 -05:00 [INF] Hosting environment: Development
+2025-09-27 23:03:48.632 -05:00 [INF] Content root path: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api
+2025-09-27 23:03:50.779 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/ - null null
+2025-09-27 23:03:51.145 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/ - 404 0 null 378.2602ms
+2025-09-27 23:03:51.175 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:54893/, Response status code: 404
+2025-09-27 23:03:52.919 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/index.html - null null
+2025-09-27 23:03:53.082 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/index.html - 200 null text/html;charset=utf-8 162.6273ms
+2025-09-27 23:03:53.100 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-27 23:03:53.096 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_vs/browserLink - null null
+2025-09-27 23:03:53.142 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - 200 16491 application/javascript; charset=utf-8 42.4551ms
+2025-09-27 23:03:53.227 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_vs/browserLink - 200 null text/javascript; charset=UTF-8 131.1736ms
+2025-09-27 23:03:53.300 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - null null
+2025-09-27 23:03:53.535 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 235.5323ms
+2025-09-27 23:03:56.659 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/api/Reservation - null null
+2025-09-27 23:03:56.692 -05:00 [INF] Executing endpoint 'Api.Controllers.ReservationController.GetReservationsAsync (Api)'
+2025-09-27 23:03:56.754 -05:00 [INF] Route matched with {action = "GetReservations", controller = "Reservation"}. Executing controller action with signature System.Threading.Tasks.Task`1[Application.DTO.Response.ApiResponse`1[System.Collections.Generic.IEnumerable`1[Application.DTO.Response.SampleResponse]]] GetReservationsAsync() on controller Api.Controllers.ReservationController (Api).
+2025-09-27 23:03:58.855 -05:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-09-27 23:04:02.291 -05:00 [ERR] Failed executing DbCommand (1,187ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT s."Id", s."Description", s."Name"
+FROM "Samples" AS s
+2025-09-27 23:04:02.986 -05:00 [ERR] An exception occurred while iterating over the results of a query for context type 'Infrastructure.Context.QuickParkDbContext'.
+Npgsql.PostgresException (0x80004005): 42P01: relation "Samples" does not exist
+
+POSITION: 48
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+  Exception data:
+    Severity: ERROR
+    SqlState: 42P01
+    MessageText: relation "Samples" does not exist
+    Position: 48
+    File: parse_relation.c
+    Line: 1392
+    Routine: parserOpenTable
+Npgsql.PostgresException (0x80004005): 42P01: relation "Samples" does not exist
+
+POSITION: 48
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+  Exception data:
+    Severity: ERROR
+    SqlState: 42P01
+    MessageText: relation "Samples" does not exist
+    Position: 48
+    File: parse_relation.c
+    Line: 1392
+    Routine: parserOpenTable
+2025-09-27 23:04:08.374 -05:00 [INF] Executed action Api.Controllers.ReservationController.GetReservationsAsync (Api) in 11594.7378ms
+2025-09-27 23:04:09.420 -05:00 [INF] Executed endpoint 'Api.Controllers.ReservationController.GetReservationsAsync (Api)'
+2025-09-27 23:04:09.946 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+Npgsql.PostgresException (0x80004005): 42P01: relation "Samples" does not exist
+
+POSITION: 48
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Infrastructure.Repositories.Repository`1.GetAllAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Infrastructure\Repositories\Repository.cs:line 24
+   at Application.Services.SampleService.GetSampleAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Services\SampleService.cs:line 18
+   at Application.Queries.GetSampleHandler.Handle(GetSampleQuery request, CancellationToken cancellationToken) in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Queries\GetSampleHandler.cs:line 11
+   at Api.Controllers.ReservationController.GetReservationsAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\Controllers\ReservationController.cs:line 20
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+  Exception data:
+    Severity: ERROR
+    SqlState: 42P01
+    MessageText: relation "Samples" does not exist
+    Position: 48
+    File: parse_relation.c
+    Line: 1392
+    Routine: parserOpenTable
+2025-09-27 23:04:10.066 -05:00 [ERR] An error occurred while processing the request
+Npgsql.PostgresException (0x80004005): 42P01: relation "Samples" does not exist
+
+POSITION: 48
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Infrastructure.Repositories.Repository`1.GetAllAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Infrastructure\Repositories\Repository.cs:line 24
+   at Application.Services.SampleService.GetSampleAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Services\SampleService.cs:line 18
+   at Application.Queries.GetSampleHandler.Handle(GetSampleQuery request, CancellationToken cancellationToken) in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Queries\GetSampleHandler.cs:line 11
+   at Api.Controllers.ReservationController.GetReservationsAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\Controllers\ReservationController.cs:line 20
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+  Exception data:
+    Severity: ERROR
+    SqlState: 42P01
+    MessageText: relation "Samples" does not exist
+    Position: 48
+    File: parse_relation.c
+    Line: 1392
+    Routine: parserOpenTable
+2025-09-27 23:04:10.171 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/api/Reservation - 500 null application/json 13511.6379ms
+2025-09-27 23:04:46.641 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/ - null null
+2025-09-27 23:04:46.668 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/ - 404 0 null 26.4175ms
+2025-09-27 23:04:46.687 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:54893/, Response status code: 404
+2025-09-27 23:05:50.350 -05:00 [INF] User profile is available. Using 'C:\Users\darwino\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-27 23:05:50.757 -05:00 [WRN] The WebRootPath was not found: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\wwwroot. Static files may be unavailable.
+2025-09-27 23:05:51.046 -05:00 [INF] Now listening on: https://localhost:54893
+2025-09-27 23:05:51.054 -05:00 [INF] Now listening on: http://localhost:54894
+2025-09-27 23:05:51.425 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-27 23:05:51.431 -05:00 [INF] Hosting environment: Development
+2025-09-27 23:05:51.434 -05:00 [INF] Content root path: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api
+2025-09-27 23:05:52.624 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/ - null null
+2025-09-27 23:05:52.952 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/ - 404 0 null 347.792ms
+2025-09-27 23:05:52.975 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:54893/, Response status code: 404
+2025-09-27 23:05:55.955 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/index.html - null null
+2025-09-27 23:05:56.137 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/index.html - 200 null text/html;charset=utf-8 182.4029ms
+2025-09-27 23:05:56.156 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-27 23:05:56.163 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_vs/browserLink - null null
+2025-09-27 23:05:56.197 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - 200 16491 application/javascript; charset=utf-8 40.2471ms
+2025-09-27 23:05:56.298 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_vs/browserLink - 200 null text/javascript; charset=UTF-8 136.6585ms
+2025-09-27 23:05:56.387 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - null null
+2025-09-27 23:05:56.649 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 262.1726ms
+2025-09-27 23:05:59.959 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/api/Reservation - null null
+2025-09-27 23:06:00.037 -05:00 [INF] Executing endpoint 'Api.Controllers.ReservationController.GetReservationsAsync (Api)'
+2025-09-27 23:06:00.120 -05:00 [INF] Route matched with {action = "GetReservations", controller = "Reservation"}. Executing controller action with signature System.Threading.Tasks.Task`1[Application.DTO.Response.ApiResponse`1[System.Collections.Generic.IEnumerable`1[Application.DTO.Response.SampleResponse]]] GetReservationsAsync() on controller Api.Controllers.ReservationController (Api).
+2025-09-27 23:06:02.688 -05:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-09-27 23:06:04.799 -05:00 [INF] Executed action Api.Controllers.ReservationController.GetReservationsAsync (Api) in 4660.8319ms
+2025-09-27 23:06:04.948 -05:00 [INF] Executed endpoint 'Api.Controllers.ReservationController.GetReservationsAsync (Api)'
+2025-09-27 23:06:05.038 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Cannot create a DbSet for 'Sample' because this type is not included in the model for the context.
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityType()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.CheckState()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityQueryable()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.System.Collections.Generic.IAsyncEnumerable<TEntity>.GetAsyncEnumerator(CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.ConfiguredCancelableAsyncEnumerable`1.GetAsyncEnumerator()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Infrastructure.Repositories.Repository`1.GetAllAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Infrastructure\Repositories\Repository.cs:line 24
+   at Application.Services.SampleService.GetSampleAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Services\SampleService.cs:line 18
+   at Application.Queries.GetSampleHandler.Handle(GetSampleQuery request, CancellationToken cancellationToken) in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Queries\GetSampleHandler.cs:line 11
+   at Api.Controllers.ReservationController.GetReservationsAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\Controllers\ReservationController.cs:line 20
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-09-27 23:06:05.086 -05:00 [ERR] An error occurred while processing the request
+System.InvalidOperationException: Cannot create a DbSet for 'Sample' because this type is not included in the model for the context.
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityType()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.CheckState()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityQueryable()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.System.Collections.Generic.IAsyncEnumerable<TEntity>.GetAsyncEnumerator(CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.ConfiguredCancelableAsyncEnumerable`1.GetAsyncEnumerator()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Infrastructure.Repositories.Repository`1.GetAllAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Infrastructure\Repositories\Repository.cs:line 24
+   at Application.Services.SampleService.GetSampleAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Services\SampleService.cs:line 18
+   at Application.Queries.GetSampleHandler.Handle(GetSampleQuery request, CancellationToken cancellationToken) in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Queries\GetSampleHandler.cs:line 11
+   at Api.Controllers.ReservationController.GetReservationsAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\Controllers\ReservationController.cs:line 20
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-09-27 23:06:05.156 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/api/Reservation - 500 null application/json 5197.178ms
+2025-09-27 23:09:35.706 -05:00 [INF] User profile is available. Using 'C:\Users\darwino\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-27 23:09:36.061 -05:00 [WRN] The WebRootPath was not found: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\wwwroot. Static files may be unavailable.
+2025-09-27 23:09:36.326 -05:00 [INF] Now listening on: https://localhost:54893
+2025-09-27 23:09:36.333 -05:00 [INF] Now listening on: http://localhost:54894
+2025-09-27 23:09:36.403 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-27 23:09:36.410 -05:00 [INF] Hosting environment: Development
+2025-09-27 23:09:36.450 -05:00 [INF] Content root path: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api
+2025-09-27 23:09:38.323 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/ - null null
+2025-09-27 23:09:38.561 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/ - 404 0 null 252.5451ms
+2025-09-27 23:09:38.596 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:54893/, Response status code: 404
+2025-09-27 23:09:40.794 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/index.html - null null
+2025-09-27 23:09:40.980 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/index.html - 200 null text/html;charset=utf-8 186.579ms
+2025-09-27 23:09:41.008 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-27 23:09:41.015 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_vs/browserLink - null null
+2025-09-27 23:09:41.055 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - 200 16491 application/javascript; charset=utf-8 46.6987ms
+2025-09-27 23:09:41.162 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_vs/browserLink - 200 null text/javascript; charset=UTF-8 147.4094ms
+2025-09-27 23:09:41.257 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - null null
+2025-09-27 23:09:41.578 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 321.5924ms
+2025-09-27 23:09:45.092 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/api/Reservation - null null
+2025-09-27 23:09:45.138 -05:00 [INF] Executing endpoint 'Api.Controllers.ReservationController.GetReservationsAsync (Api)'
+2025-09-27 23:09:45.229 -05:00 [INF] Route matched with {action = "GetReservations", controller = "Reservation"}. Executing controller action with signature System.Threading.Tasks.Task`1[Application.DTO.Response.ApiResponse`1[System.Collections.Generic.IEnumerable`1[Application.DTO.Response.SampleResponse]]] GetReservationsAsync() on controller Api.Controllers.ReservationController (Api).
+2025-09-27 23:09:45.681 -05:00 [INF] Executed action Api.Controllers.ReservationController.GetReservationsAsync (Api) in 429.031ms
+2025-09-27 23:09:45.792 -05:00 [INF] Executed endpoint 'Api.Controllers.ReservationController.GetReservationsAsync (Api)'
+2025-09-27 23:09:45.843 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No service for type 'MediatR.IRequestHandler`2[Application.Queries.GetSampleQuery,Application.DTO.Response.ApiResponse`1[System.Collections.Generic.IEnumerable`1[Application.DTO.Response.SampleResponse]]]' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.<>c__DisplayClass1_0.<Handle>g__Handler|0()
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.Handle(IRequest`1 request, IServiceProvider serviceProvider, CancellationToken cancellationToken)
+   at MediatR.Mediator.Send[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at Api.Controllers.ReservationController.GetReservationsAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\Controllers\ReservationController.cs:line 22
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-09-27 23:09:45.901 -05:00 [ERR] An error occurred while processing the request
+System.InvalidOperationException: No service for type 'MediatR.IRequestHandler`2[Application.Queries.GetSampleQuery,Application.DTO.Response.ApiResponse`1[System.Collections.Generic.IEnumerable`1[Application.DTO.Response.SampleResponse]]]' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.<>c__DisplayClass1_0.<Handle>g__Handler|0()
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.Handle(IRequest`1 request, IServiceProvider serviceProvider, CancellationToken cancellationToken)
+   at MediatR.Mediator.Send[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at Api.Controllers.ReservationController.GetReservationsAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\Controllers\ReservationController.cs:line 22
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-09-27 23:09:45.944 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/api/Reservation - 500 null application/json 853.4285ms
+2025-09-27 23:10:38.198 -05:00 [INF] User profile is available. Using 'C:\Users\darwino\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-27 23:10:38.673 -05:00 [WRN] The WebRootPath was not found: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\wwwroot. Static files may be unavailable.
+2025-09-27 23:10:38.911 -05:00 [INF] Now listening on: https://localhost:54893
+2025-09-27 23:10:38.918 -05:00 [INF] Now listening on: http://localhost:54894
+2025-09-27 23:10:38.974 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-27 23:10:38.980 -05:00 [INF] Hosting environment: Development
+2025-09-27 23:10:39.061 -05:00 [INF] Content root path: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api
+2025-09-27 23:10:40.826 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/ - null null
+2025-09-27 23:10:41.117 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/ - 404 0 null 317.7789ms
+2025-09-27 23:10:41.141 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:54893/, Response status code: 404
+2025-09-27 23:10:43.762 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/index.html - null null
+2025-09-27 23:10:43.934 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/index.html - 200 null text/html;charset=utf-8 172.267ms
+2025-09-27 23:10:43.946 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-27 23:10:43.949 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_vs/browserLink - null null
+2025-09-27 23:10:43.978 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - 200 16491 application/javascript; charset=utf-8 32.4198ms
+2025-09-27 23:10:44.073 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_vs/browserLink - 200 null text/javascript; charset=UTF-8 123.923ms
+2025-09-27 23:10:44.160 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - null null
+2025-09-27 23:10:44.413 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 253.3962ms
+2025-09-27 23:10:47.338 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/api/Reservation - null null
+2025-09-27 23:10:47.372 -05:00 [INF] Executing endpoint 'Api.Controllers.ReservationController.GetReservationsAsync (Api)'
+2025-09-27 23:10:47.445 -05:00 [INF] Route matched with {action = "GetReservations", controller = "Reservation"}. Executing controller action with signature System.Threading.Tasks.Task`1[Application.DTO.Response.ApiResponse`1[System.Collections.Generic.IEnumerable`1[Application.DTO.Response.SampleResponse]]] GetReservationsAsync() on controller Api.Controllers.ReservationController (Api).
+2025-09-27 23:10:48.270 -05:00 [INF] Executed action Api.Controllers.ReservationController.GetReservationsAsync (Api) in 800.4044ms
+2025-09-27 23:10:48.419 -05:00 [INF] Executed endpoint 'Api.Controllers.ReservationController.GetReservationsAsync (Api)'
+2025-09-27 23:10:48.503 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No service for type 'MediatR.IRequestHandler`2[Application.Queries.GetSampleQuery,Application.DTO.Response.ApiResponse`1[System.Collections.Generic.IEnumerable`1[Application.DTO.Response.SampleResponse]]]' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.<>c__DisplayClass1_0.<Handle>g__Handler|0()
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.Handle(IRequest`1 request, IServiceProvider serviceProvider, CancellationToken cancellationToken)
+   at MediatR.Mediator.Send[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at Api.Controllers.ReservationController.GetReservationsAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\Controllers\ReservationController.cs:line 22
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-09-27 23:10:48.553 -05:00 [ERR] An error occurred while processing the request
+System.InvalidOperationException: No service for type 'MediatR.IRequestHandler`2[Application.Queries.GetSampleQuery,Application.DTO.Response.ApiResponse`1[System.Collections.Generic.IEnumerable`1[Application.DTO.Response.SampleResponse]]]' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.<>c__DisplayClass1_0.<Handle>g__Handler|0()
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.Handle(IRequest`1 request, IServiceProvider serviceProvider, CancellationToken cancellationToken)
+   at MediatR.Mediator.Send[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at Api.Controllers.ReservationController.GetReservationsAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\Controllers\ReservationController.cs:line 22
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-09-27 23:10:48.602 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/api/Reservation - 500 null application/json 1263.9471ms
+2025-09-27 23:11:53.941 -05:00 [INF] User profile is available. Using 'C:\Users\darwino\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-27 23:11:54.273 -05:00 [WRN] The WebRootPath was not found: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\wwwroot. Static files may be unavailable.
+2025-09-27 23:11:54.477 -05:00 [INF] Now listening on: https://localhost:54893
+2025-09-27 23:11:54.483 -05:00 [INF] Now listening on: http://localhost:54894
+2025-09-27 23:11:54.541 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-27 23:11:54.545 -05:00 [INF] Hosting environment: Development
+2025-09-27 23:11:54.549 -05:00 [INF] Content root path: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api
+2025-09-27 23:11:56.739 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/ - null null
+2025-09-27 23:11:57.035 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/ - 404 0 null 323.6226ms
+2025-09-27 23:11:57.071 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:54893/, Response status code: 404
+2025-09-27 23:11:59.885 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/index.html - null null
+2025-09-27 23:12:00.197 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-27 23:12:00.197 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_vs/browserLink - null null
+2025-09-27 23:12:00.198 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/index.html - 200 null text/html;charset=utf-8 312.5424ms
+2025-09-27 23:12:00.232 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - 200 16491 application/javascript; charset=utf-8 35.5679ms
+2025-09-27 23:12:00.363 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_vs/browserLink - 200 null text/javascript; charset=UTF-8 165.4466ms
+2025-09-27 23:12:00.456 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - null null
+2025-09-27 23:12:00.719 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 262.9857ms
+2025-09-27 23:12:04.394 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/api/Reservation - null null
+2025-09-27 23:12:04.424 -05:00 [INF] Executing endpoint 'Api.Controllers.ReservationController.GetReservationsAsync (Api)'
+2025-09-27 23:12:04.502 -05:00 [INF] Route matched with {action = "GetReservations", controller = "Reservation"}. Executing controller action with signature System.Threading.Tasks.Task`1[Application.DTO.Response.ApiResponse`1[System.Collections.Generic.IEnumerable`1[Application.DTO.Response.ReservationResponse]]] GetReservationsAsync() on controller Api.Controllers.ReservationController (Api).
+2025-09-27 23:12:05.307 -05:00 [INF] Executed action Api.Controllers.ReservationController.GetReservationsAsync (Api) in 774.2671ms
+2025-09-27 23:12:05.457 -05:00 [INF] Executed endpoint 'Api.Controllers.ReservationController.GetReservationsAsync (Api)'
+2025-09-27 23:12:05.535 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No service for type 'MediatR.IRequestHandler`2[Application.Queries.GetReservationQuery,Application.DTO.Response.ApiResponse`1[System.Collections.Generic.IEnumerable`1[Application.DTO.Response.ReservationResponse]]]' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.<>c__DisplayClass1_0.<Handle>g__Handler|0()
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.Handle(IRequest`1 request, IServiceProvider serviceProvider, CancellationToken cancellationToken)
+   at MediatR.Mediator.Send[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at Api.Controllers.ReservationController.GetReservationsAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\Controllers\ReservationController.cs:line 22
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-09-27 23:12:05.590 -05:00 [ERR] An error occurred while processing the request
+System.InvalidOperationException: No service for type 'MediatR.IRequestHandler`2[Application.Queries.GetReservationQuery,Application.DTO.Response.ApiResponse`1[System.Collections.Generic.IEnumerable`1[Application.DTO.Response.ReservationResponse]]]' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.<>c__DisplayClass1_0.<Handle>g__Handler|0()
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.Handle(IRequest`1 request, IServiceProvider serviceProvider, CancellationToken cancellationToken)
+   at MediatR.Mediator.Send[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at Api.Controllers.ReservationController.GetReservationsAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\Controllers\ReservationController.cs:line 22
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-09-27 23:12:05.628 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/api/Reservation - 500 null application/json 1234.156ms
+2025-09-27 23:13:53.894 -05:00 [INF] User profile is available. Using 'C:\Users\darwino\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-27 23:13:54.266 -05:00 [WRN] The WebRootPath was not found: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\wwwroot. Static files may be unavailable.
+2025-09-27 23:13:54.452 -05:00 [INF] Now listening on: https://localhost:54893
+2025-09-27 23:13:54.454 -05:00 [INF] Now listening on: http://localhost:54894
+2025-09-27 23:13:54.509 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-27 23:13:54.511 -05:00 [INF] Hosting environment: Development
+2025-09-27 23:13:54.513 -05:00 [INF] Content root path: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api
+2025-09-27 23:13:56.460 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/ - null null
+2025-09-27 23:13:56.748 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/ - 404 0 null 308.5233ms
+2025-09-27 23:13:56.777 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:54893/, Response status code: 404
+2025-09-27 23:13:59.006 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/index.html - null null
+2025-09-27 23:13:59.167 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/index.html - 200 null text/html;charset=utf-8 161.1603ms
+2025-09-27 23:13:59.174 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-27 23:13:59.177 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_vs/browserLink - null null
+2025-09-27 23:13:59.311 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - 200 16491 application/javascript; charset=utf-8 137.2526ms
+2025-09-27 23:13:59.462 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_vs/browserLink - 200 null text/javascript; charset=UTF-8 285.6446ms
+2025-09-27 23:13:59.609 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - null null
+2025-09-27 23:14:00.040 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 431.9928ms
+2025-09-27 23:14:09.538 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/api/Reservation - null null
+2025-09-27 23:14:09.569 -05:00 [INF] Executing endpoint 'Api.Controllers.ReservationController.GetReservationsAsync (Api)'
+2025-09-27 23:14:09.648 -05:00 [INF] Route matched with {action = "GetReservations", controller = "Reservation"}. Executing controller action with signature System.Threading.Tasks.Task`1[Application.DTO.Response.ApiResponse`1[System.Collections.Generic.IEnumerable`1[Application.DTO.Response.ReservationResponse]]] GetReservationsAsync() on controller Api.Controllers.ReservationController (Api).
+2025-09-27 23:14:11.872 -05:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-09-27 23:14:14.254 -05:00 [INF] Executed DbCommand (84ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT r.id, r.estado, r.fechahorafin, r.fechahorainicio, r.parqueaderoid, r.usuarioid
+FROM reserva AS r
+2025-09-27 23:14:17.987 -05:00 [INF] Executed action Api.Controllers.ReservationController.GetReservationsAsync (Api) in 8312.0848ms
+2025-09-27 23:14:18.728 -05:00 [INF] Executed endpoint 'Api.Controllers.ReservationController.GetReservationsAsync (Api)'
+2025-09-27 23:14:19.170 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+List`1 -> IEnumerable`1
+System.Collections.Generic.List`1[[Domain.Entities.Reserva, Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.IEnumerable`1[[Application.DTO.Response.ReservationResponse, Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Reserva -> ReservationResponse
+Domain.Entities.Reserva -> Application.DTO.Response.ReservationResponse
+   at lambda_method71(Closure, Reserva, ReservationResponse, ResolutionContext)
+   at lambda_method70(Closure, Object, IEnumerable`1, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method70(Closure, Object, IEnumerable`1, ResolutionContext)
+   at Application.Services.ReservationService.GetReservasAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Services\ReservationService.cs:line 32
+   at Application.Queries.GetReservationHandler.Handle(GetReservationQuery request, CancellationToken cancellationToken) in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Queries\GetReservationHandler.cs:line 11
+   at Api.Controllers.ReservationController.GetReservationsAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\Controllers\ReservationController.cs:line 22
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-09-27 23:14:19.252 -05:00 [ERR] An error occurred while processing the request
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+List`1 -> IEnumerable`1
+System.Collections.Generic.List`1[[Domain.Entities.Reserva, Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.IEnumerable`1[[Application.DTO.Response.ReservationResponse, Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Reserva -> ReservationResponse
+Domain.Entities.Reserva -> Application.DTO.Response.ReservationResponse
+   at lambda_method71(Closure, Reserva, ReservationResponse, ResolutionContext)
+   at lambda_method70(Closure, Object, IEnumerable`1, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method70(Closure, Object, IEnumerable`1, ResolutionContext)
+   at Application.Services.ReservationService.GetReservasAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Services\ReservationService.cs:line 32
+   at Application.Queries.GetReservationHandler.Handle(GetReservationQuery request, CancellationToken cancellationToken) in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Application\Queries\GetReservationHandler.cs:line 11
+   at Api.Controllers.ReservationController.GetReservationsAsync() in C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\Controllers\ReservationController.cs:line 22
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-09-27 23:14:19.345 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/api/Reservation - 500 null application/json 9806.2226ms
+2025-09-27 23:15:35.932 -05:00 [INF] User profile is available. Using 'C:\Users\darwino\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-27 23:15:36.248 -05:00 [WRN] The WebRootPath was not found: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api\wwwroot. Static files may be unavailable.
+2025-09-27 23:15:36.449 -05:00 [INF] Now listening on: https://localhost:54893
+2025-09-27 23:15:36.453 -05:00 [INF] Now listening on: http://localhost:54894
+2025-09-27 23:15:36.501 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-27 23:15:36.504 -05:00 [INF] Hosting environment: Development
+2025-09-27 23:15:36.506 -05:00 [INF] Content root path: C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Api
+2025-09-27 23:15:38.280 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/ - null null
+2025-09-27 23:15:38.572 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/ - 404 0 null 308.3739ms
+2025-09-27 23:15:38.600 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:54893/, Response status code: 404
+2025-09-27 23:15:40.785 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/index.html - null null
+2025-09-27 23:15:40.973 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/index.html - 200 null text/html;charset=utf-8 187.7617ms
+2025-09-27 23:15:40.981 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-27 23:15:40.981 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/_vs/browserLink - null null
+2025-09-27 23:15:41.019 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_framework/aspnetcore-browser-refresh.js - 200 16491 application/javascript; charset=utf-8 37.8072ms
+2025-09-27 23:15:41.128 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/_vs/browserLink - 200 null text/javascript; charset=UTF-8 147.0707ms
+2025-09-27 23:15:41.219 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - null null
+2025-09-27 23:15:41.456 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 236.9327ms
+2025-09-27 23:15:45.758 -05:00 [INF] Request starting HTTP/2 GET https://localhost:54893/api/Reservation - null null
+2025-09-27 23:15:45.802 -05:00 [INF] Executing endpoint 'Api.Controllers.ReservationController.GetReservationsAsync (Api)'
+2025-09-27 23:15:45.886 -05:00 [INF] Route matched with {action = "GetReservations", controller = "Reservation"}. Executing controller action with signature System.Threading.Tasks.Task`1[Application.DTO.Response.ApiResponse`1[System.Collections.Generic.IEnumerable`1[Application.DTO.Response.ReservationResponse]]] GetReservationsAsync() on controller Api.Controllers.ReservationController (Api).
+2025-09-27 23:15:48.121 -05:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-09-27 23:15:50.459 -05:00 [INF] Executed DbCommand (101ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT r.id, r.estado, r.fechahorafin, r.fechahorainicio, r.parqueaderoid, r.usuarioid
+FROM reserva AS r
+2025-09-27 23:15:51.048 -05:00 [INF] Executing ObjectResult, writing value of type 'Application.DTO.Response.ApiResponse`1[[System.Collections.Generic.IEnumerable`1[[Application.DTO.Response.ReservationResponse, Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-09-27 23:15:51.399 -05:00 [INF] Executed action Api.Controllers.ReservationController.GetReservationsAsync (Api) in 5492.9383ms
+2025-09-27 23:15:51.406 -05:00 [INF] Executed endpoint 'Api.Controllers.ReservationController.GetReservationsAsync (Api)'
+2025-09-27 23:15:51.439 -05:00 [INF] Request finished HTTP/2 GET https://localhost:54893/api/Reservation - 200 1003 application/json; charset=utf-8 5681.0163ms

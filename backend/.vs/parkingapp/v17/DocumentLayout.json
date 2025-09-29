@@ -1,0 +1,378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{190DAACF-03C4-48B1-AA31-AC60F3084D91}|Api\\Api.csproj|c:\\users\\darwino\\onedrive - bythewave s.a.s\\escritorio\\parkingapp\\backend\\api\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190DAACF-03C4-48B1-AA31-AC60F3084D91}|Api\\Api.csproj|solutionrelative:api\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62BA824-296D-4A25-931E-3C1948490F81}|Application\\Application.csproj|c:\\users\\darwino\\onedrive - bythewave s.a.s\\escritorio\\parkingapp\\backend\\application\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62BA824-296D-4A25-931E-3C1948490F81}|Application\\Application.csproj|solutionrelative:application\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62BA824-296D-4A25-931E-3C1948490F81}|Application\\Application.csproj|c:\\users\\darwino\\onedrive - bythewave s.a.s\\escritorio\\parkingapp\\backend\\application\\commands\\updatereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62BA824-296D-4A25-931E-3C1948490F81}|Application\\Application.csproj|solutionrelative:application\\commands\\updatereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62BA824-296D-4A25-931E-3C1948490F81}|Application\\Application.csproj|c:\\users\\darwino\\onedrive - bythewave s.a.s\\escritorio\\parkingapp\\backend\\application\\commands\\updatereservationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62BA824-296D-4A25-931E-3C1948490F81}|Application\\Application.csproj|solutionrelative:application\\commands\\updatereservationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEF1A31-8FC6-4A85-A7F1-8BBA3896623C}|Infrastructure\\Infrastructure.csproj|c:\\users\\darwino\\onedrive - bythewave s.a.s\\escritorio\\parkingapp\\backend\\infrastructure\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEF1A31-8FC6-4A85-A7F1-8BBA3896623C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEF1A31-8FC6-4A85-A7F1-8BBA3896623C}|Infrastructure\\Infrastructure.csproj|c:\\users\\darwino\\onedrive - bythewave s.a.s\\escritorio\\parkingapp\\backend\\infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEF1A31-8FC6-4A85-A7F1-8BBA3896623C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62BA824-296D-4A25-931E-3C1948490F81}|Application\\Application.csproj|c:\\users\\darwino\\onedrive - bythewave s.a.s\\escritorio\\parkingapp\\backend\\application\\commands\\deletereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62BA824-296D-4A25-931E-3C1948490F81}|Application\\Application.csproj|solutionrelative:application\\commands\\deletereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62BA824-296D-4A25-931E-3C1948490F81}|Application\\Application.csproj|c:\\users\\darwino\\onedrive - bythewave s.a.s\\escritorio\\parkingapp\\backend\\application\\commands\\deletereservationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62BA824-296D-4A25-931E-3C1948490F81}|Application\\Application.csproj|solutionrelative:application\\commands\\deletereservationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62BA824-296D-4A25-931E-3C1948490F81}|Application\\Application.csproj|c:\\users\\darwino\\onedrive - bythewave s.a.s\\escritorio\\parkingapp\\backend\\application\\dto\\request\\reservationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62BA824-296D-4A25-931E-3C1948490F81}|Application\\Application.csproj|solutionrelative:application\\dto\\request\\reservationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62BA824-296D-4A25-931E-3C1948490F81}|Application\\Application.csproj|c:\\users\\darwino\\onedrive - bythewave s.a.s\\escritorio\\parkingapp\\backend\\application\\commands\\savereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62BA824-296D-4A25-931E-3C1948490F81}|Application\\Application.csproj|solutionrelative:application\\commands\\savereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62BA824-296D-4A25-931E-3C1948490F81}|Application\\Application.csproj|c:\\users\\darwino\\onedrive - bythewave s.a.s\\escritorio\\parkingapp\\backend\\application\\commands\\savereservationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62BA824-296D-4A25-931E-3C1948490F81}|Application\\Application.csproj|solutionrelative:application\\commands\\savereservationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62BA824-296D-4A25-931E-3C1948490F81}|Application\\Application.csproj|c:\\users\\darwino\\onedrive - bythewave s.a.s\\escritorio\\parkingapp\\backend\\application\\profiles\\reservationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62BA824-296D-4A25-931E-3C1948490F81}|Application\\Application.csproj|solutionrelative:application\\profiles\\reservationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62BA824-296D-4A25-931E-3C1948490F81}|Application\\Application.csproj|c:\\users\\darwino\\onedrive - bythewave s.a.s\\escritorio\\parkingapp\\backend\\application\\dto\\response\\reservationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62BA824-296D-4A25-931E-3C1948490F81}|Application\\Application.csproj|solutionrelative:application\\dto\\response\\reservationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F907C1C-A01B-4568-B7B2-555F4599CA3F}|Host\\Host.csproj|c:\\users\\darwino\\onedrive - bythewave s.a.s\\escritorio\\parkingapp\\backend\\host\\extensions\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F907C1C-A01B-4568-B7B2-555F4599CA3F}|Host\\Host.csproj|solutionrelative:host\\extensions\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190DAACF-03C4-48B1-AA31-AC60F3084D91}|Api\\Api.csproj|c:\\users\\darwino\\onedrive - bythewave s.a.s\\escritorio\\parkingapp\\backend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190DAACF-03C4-48B1-AA31-AC60F3084D91}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEF1A31-8FC6-4A85-A7F1-8BBA3896623C}|Infrastructure\\Infrastructure.csproj|c:\\users\\darwino\\onedrive - bythewave s.a.s\\escritorio\\parkingapp\\backend\\infrastructure\\context\\quickparkcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEF1A31-8FC6-4A85-A7F1-8BBA3896623C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\quickparkcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190DAACF-03C4-48B1-AA31-AC60F3084D91}|Api\\Api.csproj|c:\\users\\darwino\\onedrive - bythewave s.a.s\\escritorio\\parkingapp\\backend\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{190DAACF-03C4-48B1-AA31-AC60F3084D91}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEF1A31-8FC6-4A85-A7F1-8BBA3896623C}|Infrastructure\\Infrastructure.csproj|c:\\users\\darwino\\onedrive - bythewave s.a.s\\escritorio\\parkingapp\\backend\\infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEF1A31-8FC6-4A85-A7F1-8BBA3896623C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190DAACF-03C4-48B1-AA31-AC60F3084D91}|Api\\Api.csproj|c:\\users\\darwino\\onedrive - bythewave s.a.s\\escritorio\\parkingapp\\backend\\api\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190DAACF-03C4-48B1-AA31-AC60F3084D91}|Api\\Api.csproj|solutionrelative:api\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEF1A31-8FC6-4A85-A7F1-8BBA3896623C}|Infrastructure\\Infrastructure.csproj|c:\\users\\darwino\\onedrive - bythewave s.a.s\\escritorio\\parkingapp\\backend\\infrastructure\\api\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEF1A31-8FC6-4A85-A7F1-8BBA3896623C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\api\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F907C1C-A01B-4568-B7B2-555F4599CA3F}|Host\\Host.csproj|c:\\users\\darwino\\onedrive - bythewave s.a.s\\escritorio\\parkingapp\\backend\\host\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F907C1C-A01B-4568-B7B2-555F4599CA3F}|Host\\Host.csproj|solutionrelative:host\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F907C1C-A01B-4568-B7B2-555F4599CA3F}|Host\\Host.csproj|c:\\users\\darwino\\onedrive - bythewave s.a.s\\escritorio\\parkingapp\\backend\\host\\hostextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F907C1C-A01B-4568-B7B2-555F4599CA3F}|Host\\Host.csproj|solutionrelative:host\\hostextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T02:15:58.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteReservationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Application\\Commands\\DeleteReservationCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\DeleteReservationCommand.cs",
+              "ToolTip": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Application\\Commands\\DeleteReservationCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\DeleteReservationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:20:19.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateReservationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Application\\Commands\\UpdateReservationCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\UpdateReservationCommand.cs",
+              "ToolTip": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Application\\Commands\\UpdateReservationCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\UpdateReservationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:14:53.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SaveReservationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Application\\Commands\\SaveReservationHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\SaveReservationHandler.cs",
+              "ToolTip": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Application\\Commands\\SaveReservationHandler.cs",
+              "RelativeToolTip": "Application\\Commands\\SaveReservationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:14:14.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateReservationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Application\\Commands\\UpdateReservationHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\UpdateReservationHandler.cs",
+              "ToolTip": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Application\\Commands\\UpdateReservationHandler.cs",
+              "RelativeToolTip": "Application\\Commands\\UpdateReservationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:13:12.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Application\\Services\\ReservationService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ReservationService.cs",
+              "ToolTip": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Application\\Services\\ReservationService.cs",
+              "RelativeToolTip": "Application\\Services\\ReservationService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T23:39:52.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SaveReservationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Application\\Commands\\SaveReservationCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\SaveReservationCommand.cs",
+              "ToolTip": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Application\\Commands\\SaveReservationCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\SaveReservationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T23:40:36.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReservationProfile.cs",
+              "DocumentMoniker": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Application\\Profiles\\ReservationProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Profiles\\ReservationProfile.cs",
+              "ToolTip": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Application\\Profiles\\ReservationProfile.cs",
+              "RelativeToolTip": "Application\\Profiles\\ReservationProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T23:50:47.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Api\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Api\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "Api\\Controllers\\ReservationController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T03:18:43.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Infrastructure\\Repositories\\ReservationRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ReservationRepository.cs",
+              "ToolTip": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Infrastructure\\Repositories\\ReservationRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ReservationRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T18:46:18.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteReservationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Application\\Commands\\DeleteReservationHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\DeleteReservationHandler.cs",
+              "ToolTip": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Application\\Commands\\DeleteReservationHandler.cs",
+              "RelativeToolTip": "Application\\Commands\\DeleteReservationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:20:55.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Host\\Extensions\\ApplicationBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "Host\\Extensions\\ApplicationBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Host\\Extensions\\ApplicationBuilderExtensions.cs",
+              "RelativeToolTip": "Host\\Extensions\\ApplicationBuilderExtensions.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T04:15:15.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReservationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Application\\DTO\\Request\\ReservationRequest.cs",
+              "RelativeDocumentMoniker": "Application\\DTO\\Request\\ReservationRequest.cs",
+              "ToolTip": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Application\\DTO\\Request\\ReservationRequest.cs",
+              "RelativeToolTip": "Application\\DTO\\Request\\ReservationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T23:38:31.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T03:28:38.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReservationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Application\\DTO\\Response\\ReservationResponse.cs",
+              "RelativeDocumentMoniker": "Application\\DTO\\Response\\ReservationResponse.cs",
+              "ToolTip": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Application\\DTO\\Response\\ReservationResponse.cs",
+              "RelativeToolTip": "Application\\DTO\\Response\\ReservationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T03:32:49.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuickParkContext.cs",
+              "DocumentMoniker": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Infrastructure\\Context\\QuickParkContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\QuickParkContext.cs",
+              "ToolTip": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Infrastructure\\Context\\QuickParkContext.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\QuickParkContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T03:58:03.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T19:21:31.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-28T03:59:46.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Api\\Models\\DbContext.cs",
+              "RelativeDocumentMoniker": "Api\\Models\\DbContext.cs",
+              "ToolTip": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Api\\Models\\DbContext.cs",
+              "RelativeToolTip": "Api\\Models\\DbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T03:10:29.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Infrastructure\\Api\\ApiService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Api\\ApiService.cs",
+              "ToolTip": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Infrastructure\\Api\\ApiService.cs",
+              "RelativeToolTip": "Infrastructure\\Api\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T19:25:00.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HostExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Host\\HostExtensions.cs",
+              "RelativeDocumentMoniker": "Host\\HostExtensions.cs",
+              "ToolTip": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Host\\HostExtensions.cs",
+              "RelativeToolTip": "Host\\HostExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T19:21:37.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Host\\Middlewares\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Host\\Middlewares\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\darwino\\OneDrive - BYTHEWAVE S.A.S\\Escritorio\\parkingapp\\backend\\Host\\Middlewares\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "Host\\Middlewares\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T19:22:09.772Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+using Application.Interfaces.Repositories;
+
+namespace Application.Interfaces.UnitOfWork;
+
+public interface IUnitOfWork
+{    
+    IReservationRepository ReservationRepository { get; }
+
+    Task<int> SaveChangesAsync();
+    Task BeginTransactionAsync();
+    Task CommitTransactionAsync();
+    Task RollbackTransactionAsync();
+}

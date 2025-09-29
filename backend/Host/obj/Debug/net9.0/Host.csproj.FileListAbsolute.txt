@@ -1,0 +1,52 @@
+C:/Users/darwino/OneDrive - BYTHEWAVE S.A.S/Escritorio/parkingapp/backend/parkingapp/Host/obj/Debug/net9.0/Host.csproj.AssemblyReference.cache
+C:/Users/darwino/OneDrive - BYTHEWAVE S.A.S/Escritorio/parkingapp/backend/parkingapp/Host/obj/Debug/net9.0/Host.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/darwino/OneDrive - BYTHEWAVE S.A.S/Escritorio/parkingapp/backend/parkingapp/Host/obj/Debug/net9.0/Host.AssemblyInfoInputs.cache
+C:/Users/darwino/OneDrive - BYTHEWAVE S.A.S/Escritorio/parkingapp/backend/parkingapp/Host/obj/Debug/net9.0/Host.AssemblyInfo.cs
+C:/Users/darwino/OneDrive - BYTHEWAVE S.A.S/Escritorio/parkingapp/backend/parkingapp/Host/obj/Debug/net9.0/Host.csproj.CoreCompileInputs.cache
+/Users/darwin/Downloads/parkingapp/backend/parkingapp/Host/obj/Debug/net9.0/Host.csproj.AssemblyReference.cache
+/Users/darwin/Downloads/parkingapp/backend/parkingapp/Host/obj/Debug/net9.0/Host.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darwin/Downloads/parkingapp/backend/parkingapp/Host/obj/Debug/net9.0/Host.AssemblyInfoInputs.cache
+/Users/darwin/Downloads/parkingapp/backend/parkingapp/Host/obj/Debug/net9.0/Host.AssemblyInfo.cs
+/Users/darwin/Downloads/parkingapp/backend/parkingapp/Host/obj/Debug/net9.0/Host.csproj.CoreCompileInputs.cache
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Host\bin\Debug\net9.0\Host.deps.json
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Host\bin\Debug\net9.0\Host.dll
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Host\bin\Debug\net9.0\Host.pdb
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Host\bin\Debug\net9.0\Application.dll
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Host\bin\Debug\net9.0\Domain.dll
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Host\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Host\bin\Debug\net9.0\Shared.dll
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Host\bin\Debug\net9.0\Application.pdb
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Host\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Host\bin\Debug\net9.0\Shared.pdb
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Host\bin\Debug\net9.0\Domain.pdb
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Host\obj\Debug\net9.0\Host.csproj.AssemblyReference.cache
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Host\obj\Debug\net9.0\Host.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Host\obj\Debug\net9.0\Host.AssemblyInfoInputs.cache
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Host\obj\Debug\net9.0\Host.AssemblyInfo.cs
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Host\obj\Debug\net9.0\Host.csproj.CoreCompileInputs.cache
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Host\obj\Debug\net9.0\Host.csproj.Up2Date
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Host\obj\Debug\net9.0\Host.dll
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Host\obj\Debug\net9.0\refint\Host.dll
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Host\obj\Debug\net9.0\Host.pdb
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\parkingapp\parkingapp\Host\obj\Debug\net9.0\ref\Host.dll
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\backend\Host\bin\Debug\net9.0\Host.deps.json
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\backend\Host\bin\Debug\net9.0\Host.dll
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\backend\Host\bin\Debug\net9.0\Host.pdb
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\backend\Host\bin\Debug\net9.0\Application.dll
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\backend\Host\bin\Debug\net9.0\Domain.dll
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\backend\Host\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\backend\Host\bin\Debug\net9.0\Shared.dll
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\backend\Host\bin\Debug\net9.0\Application.pdb
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\backend\Host\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\backend\Host\bin\Debug\net9.0\Shared.pdb
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\backend\Host\bin\Debug\net9.0\Domain.pdb
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\backend\Host\obj\Debug\net9.0\Host.csproj.AssemblyReference.cache
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\backend\Host\obj\Debug\net9.0\Host.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\backend\Host\obj\Debug\net9.0\Host.AssemblyInfoInputs.cache
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\backend\Host\obj\Debug\net9.0\Host.AssemblyInfo.cs
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\backend\Host\obj\Debug\net9.0\Host.csproj.CoreCompileInputs.cache
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\backend\Host\obj\Debug\net9.0\Host.csproj.Up2Date
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\backend\Host\obj\Debug\net9.0\Host.dll
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\backend\Host\obj\Debug\net9.0\refint\Host.dll
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\backend\Host\obj\Debug\net9.0\Host.pdb
+C:\Users\darwino\OneDrive - BYTHEWAVE S.A.S\Escritorio\parkingapp\backend\Host\obj\Debug\net9.0\ref\Host.dll

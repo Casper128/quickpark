@@ -1,0 +1,156 @@
+{
+	"info": {
+		"_postman_id": "c99a39bb-2544-465c-a5a5-60ea001c3098",
+		"name": "ITM-ASII",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "40424584",
+		"_collection_link": "https://itm-login-api.postman.co/workspace/ITM-~42c9c6ca-e3a0-4974-a369-913f478a3304/collection/40424584-c99a39bb-2544-465c-a5a5-60ea001c3098?action=share&source=collection_link&creator=40424584"
+	},
+	"item": [
+		{
+			"name": "https://sandboxcomfamapro.getlearnworlds.com/admin/api/v2/users/carlosmoreno94270@correo.itm.edu.co",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer bc05mJS0BxVCACvyQgyNoNsMAFWZTxeUt80BeAs3",
+						"type": "text"
+					},
+					{
+						"key": "Lw-Client",
+						"value": "628cbf9cb7cb0aacc50f8452",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://sandboxcomfamapro.getlearnworlds.com/admin/api/v2/users",
+					"protocol": "https",
+					"host": [
+						"sandboxcomfamapro",
+						"getlearnworlds",
+						"com"
+					],
+					"path": [
+						"admin",
+						"api",
+						"v2",
+						"users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://sandboxcomfamapro.getlearnworlds.com/admin/api/v2/users/68cc82f5a5bca239d10ba663/tags",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer bc05mJS0BxVCACvyQgyNoNsMAFWZTxeUt80BeAs3",
+						"type": "text"
+					},
+					{
+						"key": "Lw-Client",
+						"value": "628cbf9cb7cb0aacc50f8452",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"tags\": [\"Estudiante ITM\"],\r\n  \"action\": \"attach\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sandboxcomfamapro.getlearnworlds.com/admin/api/v2/users/68cc82f5a5bca239d10ba663/tags",
+					"protocol": "https",
+					"host": [
+						"sandboxcomfamapro",
+						"getlearnworlds",
+						"com"
+					],
+					"path": [
+						"admin",
+						"api",
+						"v2",
+						"users",
+						"68cc82f5a5bca239d10ba663",
+						"tags"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://www.learnworlds.dev/",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer bc05mJS0BxVCACvyQgyNoNsMAFWZTxeUt80BeAs3",
+						"type": "text"
+					},
+					{
+						"key": "Lw-Client",
+						"value": "628cbf9cb7cb0aacc50f8452",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"email\": \"melisacolorado301899@correo.itm.edu.co\",\r\n    \"username\": \"Melisa Colorado Soto\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sandboxcomfamapro.getlearnworlds.com/admin/api/v2/users",
+					"protocol": "https",
+					"host": [
+						"sandboxcomfamapro",
+						"getlearnworlds",
+						"com"
+					],
+					"path": [
+						"admin",
+						"api",
+						"v2",
+						"users"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
