@@ -23,7 +23,6 @@ public static class ServiceCollectionExtensions
 {
     public static IServiceCollection AddOpenApiConfig(this IServiceCollection services)
     {
-        services.AddOpenApi();
         services.AddEndpointsApiExplorer();
         services.AddSwaggerGen();
 

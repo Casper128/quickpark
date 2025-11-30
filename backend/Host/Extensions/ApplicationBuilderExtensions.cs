@@ -10,8 +10,7 @@ public static class ApplicationBuilderExtensions
 {
     public static WebApplication UseOpenApi(this WebApplication app)
     {
-        app.MapOpenApi();
-        app.UseSwagger(); 
+        app.UseSwagger();
         app.UseSwaggerUI();
         app.MapScalarApiReference(options =>
         {
