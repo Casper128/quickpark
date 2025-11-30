@@ -57,8 +57,8 @@ jobs:
 
       - name: Build Docker image (backend)
         run: |
-          cd backend/Api
-          docker build -t ${{ secrets.DOCKERHUB_USERNAME }}/quickpark-backend:latest .
+          cd backend
+          docker build -f Api/Dockerfile -t ${{ secrets.DOCKERHUB_USERNAME }}/quickpark-backend:latest .
 
       - name: Push Docker image (backend)
         run: |
