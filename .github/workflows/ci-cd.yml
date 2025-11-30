@@ -20,13 +20,13 @@ jobs:
       - name: Install dependencies (frontend)
         run: |
           ls
-          cd quickpark/frontend
+          cd frontend
           npm install
 
       - name: Run frontend tests
         run: |
           ls
-          cd quickpark/frontend
+          cd frontend
           npm test || echo "No tests defined"
 
       - name: Set up .NET
@@ -36,17 +36,17 @@ jobs:
 
       - name: Restore .NET dependencies
         run: |
-          cd quickpark/backend/Api
+          cd backend/Api
           dotnet restore
 
       - name: Build .NET backend
         run: |
-          cd quickpark/backend/Api
+          cd backend/Api
           dotnet build --configuration Release
 
       - name: Run .NET tests
         run: |
-          cd quickpark/backend/Api
+          cd backend/Api
           dotnet test || echo "No tests defined"
 
       - name: Log in to Docker Hub
@@ -57,7 +57,7 @@ jobs:
 
       - name: Build Docker image (backend)
         run: |
-          cd quickpark/backend/Api
+          cd backend/Api
           docker build -t ${{ secrets.DOCKERHUB_USERNAME }}/quickpark-backend:latest .
 
       - name: Push Docker image (backend)
