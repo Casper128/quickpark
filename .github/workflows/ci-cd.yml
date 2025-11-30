@@ -19,11 +19,13 @@ jobs:
 
       - name: Install dependencies (frontend)
         run: |
+          ls
           cd quickpark/frontend
           npm install
 
       - name: Run frontend tests
         run: |
+          ls
           cd quickpark/frontend
           npm test || echo "No tests defined"
 
